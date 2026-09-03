@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (status) {
     const link = document.createElement("a");
     link.className = "coming";
-    link.href = "cv/Deyaa_Zidan_CV.pdf";
+    link.href = "cv/Deyaa_Zidan_CV_IT_Refined.pdf";
     link.target = "_blank";
     link.rel = "noopener";
     link.textContent = "View CV ↗";
